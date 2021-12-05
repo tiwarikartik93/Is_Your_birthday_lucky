@@ -1,0 +1,42 @@
+body{
+    background-color: mediumslateblue;
+    color: white;
+}
+
+.container{
+    color: white;
+    margin: auto;
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin: 0.5rem;;
+}
+
+button{
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+li{
+    display: inline;
+    list-style: none;
+    padding: 6rem;
+}
+
+ul{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color:brown;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+h3{
+    text-align: center;
+}
